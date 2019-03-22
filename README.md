@@ -27,6 +27,7 @@ Run application
 ```
 > node liri.js 
 ```
+<img width="944" alt="Screen Shot 2019-03-21 at 10 34 08 PM" src="https://user-images.githubusercontent.com/46644726/54802707-a9f0a000-4c29-11e9-999c-b3d803fc952d.png">
 
 add a command  after the file name and argumnent if necessary
 ```
@@ -35,6 +36,9 @@ add a command  after the file name and argumnent if necessary
     * `movie-this` `<movie name here>`
     * `do-what-it-says`
 ```
+
+<img width="1235" alt="Screen Shot 2019-03-21 at 10 34 21 PM" src="https://user-images.githubusercontent.com/46644726/54802742-d4daf400-4c29-11e9-884f-1cbd2053b364.png">
+
 
 ### And coding style 
 
